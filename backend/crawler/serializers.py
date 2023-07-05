@@ -3,6 +3,9 @@ from .models import Crawler
 
 class CrawlerSerializer(serializers.ModelSerializer):
     tags = serializers.SerializerMethodField()
+
+    def get_tags(self, instance):
+        return "Hello, world!"
     
     class Meta:
         model = Crawler
