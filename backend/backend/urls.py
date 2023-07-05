@@ -1,13 +1,10 @@
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-# from todo import views
-from crawler import views
+from crawler.views import CrawlerView
 
 router = routers.DefaultRouter()
-# router.register(r'todos', views.TodoView, 'todo')
-router.register(r'crawler', views.CrawlerView, 'crawler')
-
+router.register(r'crawler', CrawlerView, 'crawler')
 
 urlpatterns = [
     path('admin/', admin.site.urls),

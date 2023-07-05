@@ -18,18 +18,21 @@ class SearchBar extends Component {
   handleSubmit = (event) => {
     event.preventDefault();
     const { url, keyword } = this.state;
-    
-    fetch("/api/crawler/", {
+  
+    fetch("/api/crawler_view/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
       },
-      body: JSON.stringify({ url, keyword })
+      body: JSON.stringify({ url: url, keyword: keyword })
     })
       .then((response) => response.json())
       .then((data) => {
-        // Process the response data
         console.log("Response:", data);
+  
+        // Log the received tags
+        console.log("Tags:", data.tags);
+  
         // Update the state with the received tags
         this.setState({ tags: data.tags });
       })
@@ -37,9 +40,8 @@ class SearchBar extends Component {
         console.error("Error:", error);
       });
   
-    // Reset the form
     this.setState({ url: "", keyword: "" });
-  };
+  };  
   
 
   render() {

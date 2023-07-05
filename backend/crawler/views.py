@@ -1,10 +1,10 @@
-from rest_framework.views import APIView
-from rest_framework.response import Response
+from django.shortcuts import render
+from rest_framework import viewsets
 from .serializers import CrawlerSerializer
 from .models import Crawler
 
-from rest_framework.viewsets import ModelViewSet
+# Create your views here.
 
-class CrawlerView(ModelViewSet):
-    queryset = Crawler.objects.all()
+class CrawlerView(viewsets.ModelViewSet):
     serializer_class = CrawlerSerializer
+    queryset = Crawler.objects.all()
