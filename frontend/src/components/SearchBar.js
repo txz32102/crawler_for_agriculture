@@ -19,7 +19,7 @@ class SearchBar extends Component {
     event.preventDefault();
     const { url, keyword } = this.state;
   
-    fetch("/api/crawler_view/", {
+    fetch("/api/crawler/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
