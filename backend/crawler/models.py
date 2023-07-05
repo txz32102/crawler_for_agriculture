@@ -14,4 +14,6 @@ class Crawler(models.Model):
         for tag in soup.find_all():
             if self.keyword in tag.get_text():
                 tags_with_content.append(tag.get_text())
+        self.tags = ', '.join(tags_with_content)  # Save tags to the 'tags' field
+        self.save()  # Save the Crawler instance to the database
         return tags_with_content

@@ -1,11 +1,13 @@
-from django.shortcuts import render
-from rest_framework import viewsets
+from rest_framework.views import APIView
+from rest_framework.response import Response
 from .serializers import CrawlerSerializer
-from .models import Crawler
 
-class CrawlerView(viewsets.ModelViewSet):
-    serializer_class = CrawlerSerializer
-
-    def get_queryset(self):
-        queryset = Crawler.objects.all().order_by('-id')[:1]
-        return queryset
+class CrawlerView(APIView):
+    def post(self, request):
+        serializer = CrawlerSerializer(data=request.data)
+        if serializer.is_valid():
+            crawler = serializer.save()
+            tags = crawler.crawl_and_get_tags()
+            return Response({'tags': tags})
+        else:
+            return Response(serializer.errors, status=400)
