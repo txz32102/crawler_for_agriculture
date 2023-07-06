@@ -18,7 +18,7 @@ The Crawler for Agriculture project aims to collect data related to the agricult
    ```
    git clone https://github.com/your-username/crawler_for_agriculture.git
    python -m venv myenv
-   myenv/bin/activate
+   .\myenv\Scripts\activate
    pip install -r requirements.txt
    cd backend && python manage.py runserver
    cd frontend && npm install && npm run
