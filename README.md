@@ -21,5 +21,5 @@ The Crawler for Agriculture project aims to collect data related to the agricult
    .\myenv\Scripts\activate
    pip install -r requirements.txt
    cd backend && python manage.py runserver
-   cd frontend && npm install && npm run
+   cd frontend && npm install && npm start
    ```
