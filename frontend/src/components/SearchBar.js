@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import TagList from "./TagList";
 
 class SearchBar extends Component {
   constructor(props) {
@@ -6,10 +7,9 @@ class SearchBar extends Component {
     this.state = {
       url: "",
       keyword: "",
-      tags: []  // Add the 'tags' state property
+      tags: []
     };
   }
-  
 
   handleChange = (event) => {
     this.setState({ [event.target.name]: event.target.value });
@@ -18,8 +18,8 @@ class SearchBar extends Component {
   handleSubmit = (event) => {
     event.preventDefault();
     const { url, keyword } = this.state;
-  
-    fetch("/api/crawler/", {  // Update the URL to match the crawl action
+
+    fetch("/api/crawler/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
@@ -29,24 +29,18 @@ class SearchBar extends Component {
       .then((response) => response.json())
       .then((data) => {
         console.log("Response:", data);
-  
-        // Log the received tags
         console.log("Tags:", data.tags);
-  
-        // Update the state with the received tags
         this.setState({ tags: data.tags });
       })
       .catch((error) => {
         console.error("Error:", error);
       });
-  
+
     this.setState({ url: "", keyword: "" });
   };
-  
-  
 
   render() {
-    const { url, keyword } = this.state;
+    const { url, keyword, tags } = this.state;
     return (
       <div>
         <form onSubmit={this.handleSubmit}>
@@ -56,7 +50,7 @@ class SearchBar extends Component {
             placeholder="Enter URL"
             value={url}
             onChange={this.handleChange}
-            key="urlInput" // Add key for the URL input field
+            key="urlInput"
           />
           <input
             type="text"
@@ -64,15 +58,15 @@ class SearchBar extends Component {
             placeholder="Enter Keyword"
             value={keyword}
             onChange={this.handleChange}
-            key="keywordInput" // Add key for the keyword input field
+            key="keywordInput"
           />
           <button type="submit">Search</button>
         </form>
+
+        <TagList tags={tags} />
       </div>
     );
   }
-  
-  
 }
 
 export default SearchBar;

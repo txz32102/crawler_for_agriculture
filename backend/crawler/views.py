@@ -3,7 +3,6 @@ from rest_framework import viewsets
 from rest_framework.response import Response
 from rest_framework import status
 
-
 from .serializers import CrawlerSerializer
 from .models import Crawler
 from .web_crawler import crawl_keywords
@@ -44,5 +43,9 @@ class CrawlerView(viewsets.ModelViewSet):
             return Response({'error': tags}, status=status.HTTP_400_BAD_REQUEST)
         else:
             data['tags'] = tags
+
+        serializer = self.get_serializer(data=data)
+        serializer.is_valid(raise_exception=True)
+        self.perform_create(serializer)
 
         return Response(data, status=status.HTTP_201_CREATED)
