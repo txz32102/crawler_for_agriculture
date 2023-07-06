@@ -1,5 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
 from django.db import models
 
 class Crawler(models.Model):
@@ -7,13 +5,4 @@ class Crawler(models.Model):
     keyword = models.CharField(max_length=100)
     tags = models.TextField(blank=True)
 
-    def crawl_and_get_tags(self):
-        response = requests.get(self.url)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        tags_with_content = []
-        for tag in soup.find_all():
-            if self.keyword in tag.get_text():
-                tags_with_content.append(tag.get_text())
-        self.tags = ', '.join(tags_with_content)  # Save tags to the 'tags' field
-        self.save()  # Save the Crawler instance to the database
-        return tags_with_content
+
