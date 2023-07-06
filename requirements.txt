@@ -1,5 +1,5 @@
-beautifulsoup4==4.11.2
 beautifulsoup4==4.10.0
 Django==4.2.3
 djangorestframework==3.14.0
 Requests==2.31.0
+django-cors-headers
