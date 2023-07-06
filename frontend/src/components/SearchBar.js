@@ -19,7 +19,7 @@ class SearchBar extends Component {
     event.preventDefault();
     const { url, keyword } = this.state;
   
-    fetch("/api/crawler/", {
+    fetch("/api/crawler/", {  // Update the URL to match the crawl action
       method: "POST",
       headers: {
         "Content-Type": "application/json"
@@ -41,7 +41,8 @@ class SearchBar extends Component {
       });
   
     this.setState({ url: "", keyword: "" });
-  };  
+  };
+  
   
 
   render() {
