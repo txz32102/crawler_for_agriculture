@@ -5,7 +5,8 @@ from rest_framework import status
 
 from .serializers import CrawlerSerializer
 from .models import Crawler
-from .web_crawler import crawl_keywords
+from .web_crawler import crawl_links
+# from .web_crawler import crawl_keywords
 
 # Create your views here.
 
@@ -23,7 +24,7 @@ class CrawlerView(viewsets.ModelViewSet):
         keyword = data['keyword']
 
         # Crawl the data and store the tags back into the 'tags' field of 'data'
-        tags = crawl_keywords(url, keyword)
+        tags = crawl_links(url, keyword)
         data['tags'] = tags
         print(tags)
         return Response(data)
@@ -36,9 +37,9 @@ class CrawlerView(viewsets.ModelViewSet):
         keyword = data['keyword']
 
         # Crawl the data and store the tags back into the 'tags' field of 'data'
-        tags = crawl_keywords(url, keyword)
+        tags = crawl_links(url, keyword)
         if isinstance(tags, str):
-            # If crawl_keywords returns an error message, set 'tags' to None
+            # If crawl_links returns an error message, set 'tags' to None
             data['tags'] = None
             return Response({'error': tags}, status=status.HTTP_400_BAD_REQUEST)
         else:

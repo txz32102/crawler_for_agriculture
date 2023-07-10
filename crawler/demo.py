@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
 def crawl_links(url):
     # Send a GET request to the URL
@@ -12,14 +13,26 @@ def crawl_links(url):
         
         # Find all the <a> tags (links) in the HTML
         links = soup.find_all('a')
-        
+
         # Create a list to store the extracted links
         extracted_links = []
         
         # Iterate over the links and append their href attribute to the list
         for link in links:
             href = link.get('href')
-            extracted_links.append(href)
+            
+            # Check if the href value is not None
+            if href is not None:
+                # Check if the href value is a fragment identifier
+                if href.startswith('#'):
+                    # Skip fragment identifiers
+                    continue
+                
+                # Check if the href value is a relative URL
+                if not href.startswith('http'):
+                    href = urljoin(url, href)
+                
+                extracted_links.append(href)
         
         return extracted_links
     else:
@@ -68,13 +81,7 @@ def write_result_to_file(result):
 
 
 # Example usage
-url = 'http://www.fao.org'
+url = 'https://www.fao.org/home/en/#collapseSearchBox'
 index = 2
 
-crawl_sublink(url, index)
-
-# Example usage
-url = 'http://www.fao.org'
-index = 20
-
-crawl_sublink(url, index)
+print(crawl_links(url))
