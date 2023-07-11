@@ -1,7 +1,8 @@
 import React, { Component } from "react";
-import logo from './logo.svg';
+import logo from "./logo.svg";
 import "./App.css";
 import SearchBar from "./components/SearchBar";
+import Map from "./components/Map";
 
 class App extends Component {
   render() {
@@ -22,6 +23,7 @@ class App extends Component {
           </a>
           <SearchBar />
         </header>
+        {/* <Map /> */}
       </div>
     );
   }
