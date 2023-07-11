@@ -1,6 +1,9 @@
 # Crawler for Agriculture
 
-![Crawler for Agriculture](https://example.com/path/to/image.png)
+![Crawler for Agriculture](static/demo.png)
+
+# 中文版本
+[中文版本](README-zh.md)
 
 This repository contains a collection of crawlers designed to gather information about Chilean agriculture.
 
