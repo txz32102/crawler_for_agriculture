@@ -2,7 +2,7 @@
 
 run:
 	nohup sh -c 'cd backend && python3 manage.py runserver' > log1.txt 2>&1 &
-	nohup sh -c 'cd frontend && npm start' > log2.txt 2>&1 &
+	cd frontend && npm start
 
 kill:
 	-pkill -f 'python3 manage.py runserver'
