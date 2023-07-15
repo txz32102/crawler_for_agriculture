@@ -4,3 +4,4 @@ djangorestframework==3.14.0
 Requests==2.31.0
 django-cors-headers
 selenium
+pandas
