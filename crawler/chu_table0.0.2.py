@@ -54,6 +54,9 @@ class TableCrawler:
         return df
 
 # Example usage
+
+
+
 url = "https://www.prensaescrita.com/america/chile.php"
 crawler = TableCrawler(url)
 df = crawler.combine_to_dataframe()
