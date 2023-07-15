@@ -1,0 +1,1061 @@
+<tr>
+<td valign="top">
+<center>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="left"><a href="https://www.prensaescrita.com/"><img alt="Prensaescrita.com Todos los periódicos en español" border="0" height="71" src="https://estaticos.prensaescrita.com/imagenes/logo.gif" title="periodicos" width="226"/></a></td><td width="13%"> </td></tr>
+</table>
+</center></td>
+<td valign="bottom" width="468">
+<div class="adk-slot banner">
+<div id="adk_banner"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td align="left"><a href="https://www.prensaescrita.com/"><img alt="Prensaescrita.com Todos los periódicos en español" border="0" height="71" src="https://estaticos.prensaescrita.com/imagenes/logo.gif" title="periodicos" width="226"/></a></td><td width="13%"> </td></tr>
+<tr><td>
+<center>
+<ins class="adsbygoogle" data-ad-client="ca-pub-2205286889706461" data-ad-slot="3914583936" style="display:inline-block;width:728px;height:90px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td></tr>
+<tr height="25">
+<td align="left">
+<font face="verdana" size="2"><b> Buscador: </b></font><font face="verdana" size="1"></font>
+</td>
+<td align="left">
+<font face="arial narrow" size="2"><input #cc3300;="" #f6f6f6"="" 1px="" background-color:="" bold;="" border:="" class="petita" font-weight:="" hspace="0" maxlength="50" name="query" solid="" style="width:105px; font-size: 13px; height:17px" type="text" value=""/></font>
+</td>
+<td align="left">
+<input border="0" class="petita" name="sa" style="height:22px; color: #000000; font-size: 11px; font-family: Arial; border: 1px solid #CC3300; background-color: #F6F6F6" type="submit" value="Búsqueda"/></td>
+<td align="left">
+<font face="verdana" size="1"><b>   <a href="/nuevo.php?pais=CHILE" rel="nofollow"><u>Añade nuevo diario</u></a> | <a href="/europa.php" title="Periódicos diarios de Europa">Europa</a> | <a href="/africa.php" title="Periódicos diarios de África">África</a> | <a href="/asia.php" title="Periódicos diarios de Asia">Asia</a> | <a href="/oceania.php" title="Periódicos diarios de Oceanía">Oceanía</a> | <a href="/newspapers/" title="Newspapers">Newspapers</a> |
+<a href="/portugues.php" title="Jornais português">português</a>    </b></font>
+</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td valign="top" width="17%">
+<table bgcolor="ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table bgcolor="#336666" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td align="left"><a href="https://www.prensaescrita.com/america.php" title="Periódicos diarios de América"><img alt="América" border="0" height="17" src="https://estaticos.prensaescrita.com/imagenes/america.gif" width="56"/></a></td></tr>
+<tr>
+<td>
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td align="left">
+<font face="verdana" size="1"> <a href="https://www.infobae.com" rel="nofollow" target="_blank">Infobae</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.clarin.com" rel="nofollow" target="_blank">Clarín</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elcomercio.pe" rel="nofollow" target="_blank">El Comercio</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eltiempo.com" rel="nofollow" target="_blank">El Tiempo</a> (COL)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eluniversal.com.mx" rel="nofollow" target="_blank">El Universal</a> (MEX)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.emol.com" rel="nofollow" target="_blank">El Mercurio</a> (CHI)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elpais.com.uy" rel="nofollow" target="_blank">El País</a> (URU)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eluniverso.com" rel="nofollow" target="_blank">El Universo</a> (ECU)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.listindiario.com" rel="nofollow" target="_blank">Listín Diario</a> (DOM)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elnuevodia.com" rel="nofollow" target="_blank">El Nuevo Día</a> (PUE)</font><br/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="7">
+<tr><td align="left">
+<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.prensaescrita.com%2Famerica%2Fchile.php" target="_blank"><img border="0" src="https://estaticos.prensaescrita.com/imagenes/b-facebook.jpg"/></a>
+</td></tr>
+<tr><td align="left">
+<a href="https://twitter.com/intent/tweet?text=Todos los periÃ³dicos de CHILE en Prensaescrita.com&amp;url=https%3A%2F%2Fwww.prensaescrita.com%2Famerica%2Fchile.php&amp;via=prensaescrita" target="_blank"><img border="0" src="https://estaticos.prensaescrita.com/imagenes/b-twitter.jpg"/></a>
+</td></tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#336666" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td align="left"><a href="https://www.prensaescrita.com/deportes.php" title="Periódicos diarios deportivos"><img alt="Prensa deportiva" border="0" height="17" src="https://estaticos.prensaescrita.com/imagenes/prensadep.gif" width="111"/></a></td></tr>
+<tr>
+<td>
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td align="left">
+<font face="verdana" size="1"> <a href="https://www.marca.com" rel="nofollow" target="_blank">Marca</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.as.com" rel="nofollow" target="_blank">As</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.mundodeportivo.com" rel="nofollow" target="_blank">Mundo Dep</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.sport.es" rel="nofollow" target="_blank">Sport</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.ole.com.ar" rel="nofollow" target="_blank">Olé</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.record.com.mx" rel="nofollow" target="_blank">Récord</a> (MEX)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.depor.com" rel="nofollow" target="_blank">Depor</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.libero.pe" rel="nofollow" target="_blank">Libero</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eldeportivo.com.co" rel="nofollow" target="_blank">El Deportivo</a> (COL)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.meridiano.net" rel="nofollow" target="_blank">Meridiano</a> (VEN)</font><br/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><font face="verdana" size="1"> </font>
+</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#336666" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td align="left"><a href="https://www.prensaescrita.com/america.php" title="Periódicos diarios de América"><img alt="América" border="0" height="17" src="https://estaticos.prensaescrita.com/imagenes/america.gif" width="56"/></a></td></tr>
+<tr>
+<td>
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td align="left">
+<font face="verdana" size="1"> <a href="https://www.infobae.com" rel="nofollow" target="_blank">Infobae</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.clarin.com" rel="nofollow" target="_blank">Clarín</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elcomercio.pe" rel="nofollow" target="_blank">El Comercio</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eltiempo.com" rel="nofollow" target="_blank">El Tiempo</a> (COL)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eluniversal.com.mx" rel="nofollow" target="_blank">El Universal</a> (MEX)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.emol.com" rel="nofollow" target="_blank">El Mercurio</a> (CHI)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elpais.com.uy" rel="nofollow" target="_blank">El País</a> (URU)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eluniverso.com" rel="nofollow" target="_blank">El Universo</a> (ECU)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.listindiario.com" rel="nofollow" target="_blank">Listín Diario</a> (DOM)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elnuevodia.com" rel="nofollow" target="_blank">El Nuevo Día</a> (PUE)</font><br/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td align="left"><a href="https://www.prensaescrita.com/america.php" title="Periódicos diarios de América"><img alt="América" border="0" height="17" src="https://estaticos.prensaescrita.com/imagenes/america.gif" width="56"/></a></td></tr>
+<tr>
+<td>
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td align="left">
+<font face="verdana" size="1"> <a href="https://www.infobae.com" rel="nofollow" target="_blank">Infobae</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.clarin.com" rel="nofollow" target="_blank">Clarín</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elcomercio.pe" rel="nofollow" target="_blank">El Comercio</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eltiempo.com" rel="nofollow" target="_blank">El Tiempo</a> (COL)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eluniversal.com.mx" rel="nofollow" target="_blank">El Universal</a> (MEX)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.emol.com" rel="nofollow" target="_blank">El Mercurio</a> (CHI)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elpais.com.uy" rel="nofollow" target="_blank">El País</a> (URU)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eluniverso.com" rel="nofollow" target="_blank">El Universo</a> (ECU)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.listindiario.com" rel="nofollow" target="_blank">Listín Diario</a> (DOM)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elnuevodia.com" rel="nofollow" target="_blank">El Nuevo Día</a> (PUE)</font><br/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left">
+<font face="verdana" size="1"> <a href="https://www.infobae.com" rel="nofollow" target="_blank">Infobae</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.clarin.com" rel="nofollow" target="_blank">Clarín</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elcomercio.pe" rel="nofollow" target="_blank">El Comercio</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eltiempo.com" rel="nofollow" target="_blank">El Tiempo</a> (COL)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eluniversal.com.mx" rel="nofollow" target="_blank">El Universal</a> (MEX)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.emol.com" rel="nofollow" target="_blank">El Mercurio</a> (CHI)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elpais.com.uy" rel="nofollow" target="_blank">El País</a> (URU)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eluniverso.com" rel="nofollow" target="_blank">El Universo</a> (ECU)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.listindiario.com" rel="nofollow" target="_blank">Listín Diario</a> (DOM)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.elnuevodia.com" rel="nofollow" target="_blank">El Nuevo Día</a> (PUE)</font><br/>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="7">
+<tr><td align="left">
+<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.prensaescrita.com%2Famerica%2Fchile.php" target="_blank"><img border="0" src="https://estaticos.prensaescrita.com/imagenes/b-facebook.jpg"/></a>
+</td></tr>
+<tr><td align="left">
+<a href="https://twitter.com/intent/tweet?text=Todos los periÃ³dicos de CHILE en Prensaescrita.com&amp;url=https%3A%2F%2Fwww.prensaescrita.com%2Famerica%2Fchile.php&amp;via=prensaescrita" target="_blank"><img border="0" src="https://estaticos.prensaescrita.com/imagenes/b-twitter.jpg"/></a>
+</td></tr>
+</table>
+</td>
+</tr>
+<tr><td align="left">
+<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.prensaescrita.com%2Famerica%2Fchile.php" target="_blank"><img border="0" src="https://estaticos.prensaescrita.com/imagenes/b-facebook.jpg"/></a>
+</td></tr>
+<tr><td align="left">
+<a href="https://twitter.com/intent/tweet?text=Todos los periÃ³dicos de CHILE en Prensaescrita.com&amp;url=https%3A%2F%2Fwww.prensaescrita.com%2Famerica%2Fchile.php&amp;via=prensaescrita" target="_blank"><img border="0" src="https://estaticos.prensaescrita.com/imagenes/b-twitter.jpg"/></a>
+</td></tr>
+<tr>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#336666" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td align="left"><a href="https://www.prensaescrita.com/deportes.php" title="Periódicos diarios deportivos"><img alt="Prensa deportiva" border="0" height="17" src="https://estaticos.prensaescrita.com/imagenes/prensadep.gif" width="111"/></a></td></tr>
+<tr>
+<td>
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td align="left">
+<font face="verdana" size="1"> <a href="https://www.marca.com" rel="nofollow" target="_blank">Marca</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.as.com" rel="nofollow" target="_blank">As</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.mundodeportivo.com" rel="nofollow" target="_blank">Mundo Dep</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.sport.es" rel="nofollow" target="_blank">Sport</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.ole.com.ar" rel="nofollow" target="_blank">Olé</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.record.com.mx" rel="nofollow" target="_blank">Récord</a> (MEX)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.depor.com" rel="nofollow" target="_blank">Depor</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.libero.pe" rel="nofollow" target="_blank">Libero</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eldeportivo.com.co" rel="nofollow" target="_blank">El Deportivo</a> (COL)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.meridiano.net" rel="nofollow" target="_blank">Meridiano</a> (VEN)</font><br/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><font face="verdana" size="1"> </font>
+</td>
+</tr>
+<tr><td align="left"><a href="https://www.prensaescrita.com/deportes.php" title="Periódicos diarios deportivos"><img alt="Prensa deportiva" border="0" height="17" src="https://estaticos.prensaescrita.com/imagenes/prensadep.gif" width="111"/></a></td></tr>
+<tr>
+<td>
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td align="left">
+<font face="verdana" size="1"> <a href="https://www.marca.com" rel="nofollow" target="_blank">Marca</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.as.com" rel="nofollow" target="_blank">As</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.mundodeportivo.com" rel="nofollow" target="_blank">Mundo Dep</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.sport.es" rel="nofollow" target="_blank">Sport</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.ole.com.ar" rel="nofollow" target="_blank">Olé</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.record.com.mx" rel="nofollow" target="_blank">Récord</a> (MEX)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.depor.com" rel="nofollow" target="_blank">Depor</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.libero.pe" rel="nofollow" target="_blank">Libero</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eldeportivo.com.co" rel="nofollow" target="_blank">El Deportivo</a> (COL)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.meridiano.net" rel="nofollow" target="_blank">Meridiano</a> (VEN)</font><br/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left">
+<font face="verdana" size="1"> <a href="https://www.marca.com" rel="nofollow" target="_blank">Marca</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.as.com" rel="nofollow" target="_blank">As</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.mundodeportivo.com" rel="nofollow" target="_blank">Mundo Dep</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.sport.es" rel="nofollow" target="_blank">Sport</a> (ESP)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.ole.com.ar" rel="nofollow" target="_blank">Olé</a> (ARG)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.record.com.mx" rel="nofollow" target="_blank">Récord</a> (MEX)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.depor.com" rel="nofollow" target="_blank">Depor</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.libero.pe" rel="nofollow" target="_blank">Libero</a> (PER)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.eldeportivo.com.co" rel="nofollow" target="_blank">El Deportivo</a> (COL)</font><br/>
+<font face="verdana" size="1"> <a href="https://www.meridiano.net" rel="nofollow" target="_blank">Meridiano</a> (VEN)</font><br/>
+</td>
+</tr>
+<tr height="17">
+<td>
+<table width="100%">
+<tr>
+<td align="center" width="20"><img alt="bandera de chile" height="8" src="https://estaticos.prensaescrita.com/imagenes/banderas/chile.gif" width="14"/></td>
+<td><h1>PERIÓDICOS DIARIOS DE CHILE</h1></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" width="20"><img alt="bandera de chile" height="8" src="https://estaticos.prensaescrita.com/imagenes/banderas/chile.gif" width="14"/></td>
+<td><h1>PERIÓDICOS DIARIOS DE CHILE</h1></td>
+</tr>
+<tr>
+<td bgcolor="#ffffff" colspan="2" valign="TOP">
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" height="160" width="100%">
+<tr>
+<td valign="TOP" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" width="68.5%">
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>REGIÓN METROPOLITANA (Santiago de Chile)</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr></table></td>
+<td width="150"><font face="tahoma" size="1"><b>EL MERCURIO</b></font></td>
+<td width="94"><font face="verdana" size="1"><strong>Santiago Ch.</strong></font></td>
+<td width="162"><font face="verdana" size="1"><a href="https://www.emol.com" rel="nofollow" target="_blank">www.emol.com</a></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr></table></td>
+<td width="150"><font face="tahoma" size="1"><b>LA TERCERA</b></font></td>
+<td width="94"><font face="verdana" size="1"><strong>Santiago Ch.</strong></font></td>
+<td width="162"><font face="verdana" size="1"><a href="https://www.latercera.com" rel="nofollow" target="_blank">www.latercera.com</a></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr></table></td>
+<td width="150"><font face="tahoma" size="1"><b>PUBLIMETRO</b></font></td>
+<td width="94"><font face="verdana" size="1"><strong>Santiago Ch.</strong></font></td>
+<td width="162"><font face="verdana" size="1"><a href="https://www.publimetro.cl" rel="nofollow" target="_blank">www.publimetro.cl</a></font></td>
+</tr>
+<tr>
+<td valign="TOP" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" width="68.5%">
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>REGIÓN METROPOLITANA (Santiago de Chile)</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr></table></td>
+<td width="150"><font face="tahoma" size="1"><b>EL MERCURIO</b></font></td>
+<td width="94"><font face="verdana" size="1"><strong>Santiago Ch.</strong></font></td>
+<td width="162"><font face="verdana" size="1"><a href="https://www.emol.com" rel="nofollow" target="_blank">www.emol.com</a></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr></table></td>
+<td width="150"><font face="tahoma" size="1"><b>LA TERCERA</b></font></td>
+<td width="94"><font face="verdana" size="1"><strong>Santiago Ch.</strong></font></td>
+<td width="162"><font face="verdana" size="1"><a href="https://www.latercera.com" rel="nofollow" target="_blank">www.latercera.com</a></font></td>
+</tr>
+<tr>
+<td valign="top" width="68.5%">
+<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>REGIÓN METROPOLITANA (Santiago de Chile)</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr></table></td>
+<td width="150"><font face="tahoma" size="1"><b>EL MERCURIO</b></font></td>
+<td width="94"><font face="verdana" size="1"><strong>Santiago Ch.</strong></font></td>
+<td width="162"><font face="verdana" size="1"><a href="https://www.emol.com" rel="nofollow" target="_blank">www.emol.com</a></font></td>
+</tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>REGIÓN METROPOLITANA (Santiago de Chile)</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="S" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig.jpg" title="DIGITAL SI" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="S" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig.jpg" title="DIGITAL SI" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="S" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig.jpg" title="DIGITAL SI" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="S" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig.jpg" title="DIGITAL SI" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Antofagasta</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Arica y Parinacota</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Atacama</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Aysén</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Biobío</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Coquimbo</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>La Araucanía</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Los Lagos</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Los Ríos</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Magallanes</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Maule</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Ñuble</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>O'Higgins</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Tarapacá</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td bgcolor="#D3DCDC" colspan="4"><font face="verdana" size="1"><h2>Valparaíso</h2></font></td>
+</tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td width="20"><table border="0" cellspacing="1"><tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr></table></td></tr>
+<tr><td><img alt="N" height="13" src="https://estaticos.prensaescrita.com/imagenes/dig-no.jpg" title="DIGITAL NO" width="13"/></td></tr>
+<tr>
+<td>
+<br/>
+<center>   <img alt="rss" src="https://estaticos.prensaescrita.com/imagenes/portada.jpg"/> Información General - <img alt="portada" src="https://estaticos.prensaescrita.com/imagenes/dig.jpg"/> Deportes/Economía</center>
+</td>
+</tr>
+<tr><td>
+<center>
+<br/>
+<ins class="adsbygoogle" data-ad-client="ca-pub-2205286889706461" data-ad-slot="2823661686" style="display:inline-block;width:336px;height:280px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td></tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/argentina.php" title="Periódicos diarios de Argetina">Argentina</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/bolivia.php" title="Periódicos diarios de Bolivia">Bolivia</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/canada.php" title="Periódicos diarios de Canadá">Canadá</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/colombia.php" title="Periódicos diarios de Colombia">Colombia</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/costarica.php" title="Periódicos diarios de Costa Rica">Costa Rica</a></font></td></tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/chile.php" title="Periódicos diarios de Chile">Chile</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/elsalvador.php" title="Periódicos diarios de El Salvador">El Salvador</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/ecuador.php" title="Periódicos diarios de Ecuador">Ecuador</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/guatemala.php" title="Periódicos diarios de Guatemala">Guatemala</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/honduras.php" title="Periódicos diarios de Honduras">Honduras</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/mexico.php" title="Periódicos diarios de México">México</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/nicaragua.php" title="Periódicos diarios de Nicaragua">Nicaragua</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/panama.php" title="Periódicos diarios de Panamá">Panamá</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/paraguay.php" title="Periódicos diarios de Paraguay">Paraguay</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/puertorico.php" title="Periódicos diarios de Puerto Rico">Puerto Rico</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/peru.php" title="Periódicos diarios de Perú">Perú</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/dominicana.php" title="Periódicos diarios de República Dominicana">R.Dominicana</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/uruguay.php" title="Periódicos diarios de Uruguay">Uruguay</a></font></td>
+<td width="50%"><font face="arial" size="1"> <a href="/america/usa.php" title="Periódicos diarios de Estados Unidos">Estados Unidos</a></font></td>
+</tr>
+<tr>
+<td width="50%"><font face="arial" size="1">  <a href="/america/venezuela.php" title="Periódicos diarios de Venezuela">Venezuela</a></font></td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td colspan="2">
+</td>
+</tr>
+<tr>
+<td>
+<ins class="adsbygoogle" data-ad-client="ca-pub-2205286889706461" data-ad-slot="3783138403" style="display:inline-block;width:160px;height:600px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</td>
+</tr>
+<tr align="center">
+<td>  <img alt="P" height="18" src="https://estaticos.prensaescrita.com/imagenes/logo-mini.gif" width="17"/> <font color="#325f62" face="verdana" size="1"><strong> Prensaescrita.com - Todos los <a href="https://www.prensaescrita.com" title="Periódicos">periódicos</a> diarios </strong></font><font color="#325f62" face="arial" size="1"> © 2000-2023 · <a href="/cdn-cgi/l/email-protection#5e3d31302a3f3d2a31373038311e39333f3732703d3133"><u>Contacta con nosotros</u></a></font></td>
+<tr>
+<td colspan="2">
+<center><font color="#325f62" face="verdana" size="1"><b>Síguenos en <a href="https://twitter.com/prensaescrita" rel="nofollow" target="_blank" title="twitter prensaescrita"><font color="#33CCFF">Twitter</font></a></b> - <a href="https://www.facebook.com/Prensaescritacom" rel="nofollow" target="_blank" title="facebook prensaescrita"><font color="#506AA3"><b>Facebook</b></font></a> / prensa periodico diarios noticias - <font face="arial" size="1"><a href="https://www.prensaescrita.com/politicacookies.php" rel="nofollow"><u>Política de privacidad</u></a></font></font></center>
+</td>
+</tr>
+</tr>
+<tr>
+<td colspan="2">
+<center><font color="#325f62" face="verdana" size="1"><b>Síguenos en <a href="https://twitter.com/prensaescrita" rel="nofollow" target="_blank" title="twitter prensaescrita"><font color="#33CCFF">Twitter</font></a></b> - <a href="https://www.facebook.com/Prensaescritacom" rel="nofollow" target="_blank" title="facebook prensaescrita"><font color="#506AA3"><b>Facebook</b></font></a> / prensa periodico diarios noticias - <font face="arial" size="1"><a href="https://www.prensaescrita.com/politicacookies.php" rel="nofollow"><u>Política de privacidad</u></a></font></font></center>
+</td>
+</tr>
