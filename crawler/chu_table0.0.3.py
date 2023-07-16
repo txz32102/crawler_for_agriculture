@@ -83,10 +83,15 @@ url_list = extract_php_href_attributes(url)
 url_list = add_prefix(url_list, "https://www.prensaescrita.com")
 
 
-
+i = 0
 for url in url_list:
+    print(i)
+    print(url)
     filename = url.replace("/", "_")  # Substitute '/' with '_'
     crawler = TableCrawler(url)
     df = crawler.combine_to_dataframe()
     print(df)
+    i = i + 1
 
+url = ''
+crawler = TableCrawler(url)
